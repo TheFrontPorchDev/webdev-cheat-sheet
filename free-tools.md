@@ -4,80 +4,71 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
-## 🚀 Getting Started: Responsively App + Chrome DevTools
-
-| Tool               | Rating  | What It Does                           | Link                               |
-| ------------------ | ------- | ------------------------------------ | ---------------------------------- |
-| Chrome DevTools    | ⭐⭐⭐⭐⭐   | Built-in powerful browser tools       | https://developer.chrome.com/docs/devtools/ |
-| Responsively App   | ⭐⭐⭐⭐    | Live multi-device preview for responsive dev | https://responsively.app/          |
-
----
-
 ## 🧰 Code Editors & IDEs
 
-| Tool              | Rating  | What It Does                         | Link                               |
-| ----------------- | ------- | ---------------------------------- | ---------------------------------- |
-| VS Code           | ⭐⭐⭐⭐⭐   | Free, extensible code editor         | https://code.visualstudio.com/     |
-| Gitpod            | ⭐⭐⭐     | Online dev environments in browser   | https://gitpod.io/                 |
-| StackBlitz        | ⭐⭐⭐     | Online instant dev playground        | https://stackblitz.com/            |
+| Tool              | Rating  | Cost            | What It Does                         | Link                               |
+| ----------------- | ------- | --------------- | ---------------------------------- | ---------------------------------- |
+| VS Code           | ⭐⭐⭐⭐⭐   | Fully Free      | Free, extensible code editor         | https://code.visualstudio.com/     |
+| Gitpod            | ⭐⭐⭐     | Free Tier       | Online dev environments in browser   | https://gitpod.io/                 |
+| StackBlitz        | ⭐⭐⭐     | Free Tier       | Online instant dev playground        | https://stackblitz.com/            |
 
 ---
 
 ## 🌐 Browser DevTools & Debugging
 
-| Tool               | Rating  | What It Does                        | Link                                         |
-| ------------------ | ------- | --------------------------------- | -------------------------------------------- |
-| Chrome DevTools    | ⭐⭐⭐⭐⭐   | Built-in powerful browser tools    | https://developer.chrome.com/docs/devtools/ |
-| Firefox DevTools   | ⭐⭐⭐     | Great for CSS grid & layout debug  | https://firefox-source-docs.mozilla.org/devtools-user/ |
-| Lighthouse        | ⭐⭐⭐     | Performance, accessibility audits  | https://developers.google.com/web/tools/lighthouse |
-| Responsively App   | ⭐⭐⭐⭐    | Live multi-device preview for responsive dev | https://responsively.app/                     |
+| Tool               | Rating  | Cost            | What It Does                        | Link                                         |
+| ------------------ | ------- | --------------- | --------------------------------- | -------------------------------------------- |
+| Chrome DevTools    | ⭐⭐⭐⭐⭐   | Fully Free      | Built-in powerful browser tools    | https://developer.chrome.com/docs/devtools/ |
+| Firefox DevTools   | ⭐⭐⭐     | Fully Free      | Great for CSS grid & layout debug  | https://firefox-source-docs.mozilla.org/devtools-user/ |
+| Lighthouse        | ⭐⭐⭐     | Fully Free      | Performance, accessibility audits  | https://developers.google.com/web/tools/lighthouse |
+| Responsively App   | ⭐⭐⭐⭐    | Fully Free      | Live multi-device preview for responsive dev | https://responsively.app/                     |
 
 ---
 
 ## 🎨 Design & UI Tools
 
-| Tool               | Rating  | What It Does                          | Link                     |
-| ------------------ | ------- | ----------------------------------- | ------------------------ |
-| Penpot             | ⭐⭐⭐⭐    | Open-source UI design & prototyping  | https://penpot.app/      |
-| Coolors            | ⭐⭐⭐     | Fast color palette generator         | https://coolors.co/      |
-| Heroicons          | ⭐⭐⭐     | Free SVG icons from Tailwind team    | https://heroicons.com/   |
+| Tool               | Rating  | Cost            | What It Does                          | Link                     |
+| ------------------ | ------- | --------------- | ----------------------------------- | ------------------------ |
+| Penpot             | ⭐⭐⭐⭐    | Fully Free      | Open-source UI design & prototyping  | https://penpot.app/      |
+| Coolors            | ⭐⭐⭐     | Free Tier       | Fast color palette generator         | https://coolors.co/      |
+| Heroicons          | ⭐⭐⭐     | Fully Free      | Free SVG icons from Tailwind team    | https://heroicons.com/   |
 
 ---
 
 ## 📦 Package & Dependency Tools
 
-| Tool               | Rating  | What It Does                        | Link                    |
-| ------------------ | ------- | --------------------------------- | ----------------------- |
-| Bundlephobia       | ⭐⭐⭐⭐    | Check npm package size & impact     | https://bundlephobia.com/ |
+| Tool               | Rating  | Cost            | What It Does                        | Link                    |
+| ------------------ | ------- | --------------- | --------------------------------- | ----------------------- |
+| Bundlephobia       | ⭐⭐⭐⭐    | Fully Free      | Check npm package size & impact     | https://bundlephobia.com/ |
 
 ---
 
 ## ☁️ Hosting & Deployment
 
-| Tool               | Rating  | What It Does                       | Link                         |
-| ------------------ | ------- | -------------------------------- | ---------------------------- |
-| GitHub Pages       | ⭐⭐⭐⭐    | Host static sites for free        | https://pages.github.com/    |
-| Netlify            | ⭐⭐⭐⭐    | Easy static & serverless hosting  | https://www.netlify.com/     |
-| Vercel             | ⭐⭐⭐     | Deploy frontend apps quickly      | https://vercel.com/          |
+| Tool               | Rating  | Cost            | What It Does                       | Link                         |
+| ------------------ | ------- | --------------- | -------------------------------- | ---------------------------- |
+| GitHub Pages       | ⭐⭐⭐⭐    | Fully Free      | Host static sites for free        | https://pages.github.com/    |
+| Netlify            | ⭐⭐⭐⭐    | Free Tier       | Easy static & serverless hosting  | https://www.netlify.com/     |
+| Vercel             | ⭐⭐⭐     | Free Tier       | Deploy frontend apps quickly      | https://vercel.com/          |
 
 ---
 
 ## 🧩 Fonts & Icons
 
-| Tool               | Rating  | What It Does                      | Link                           |
-| ------------------ | ------- | -------------------------------- | ------------------------------ |
-| Fontshare          | ⭐⭐⭐     | Free open-source fonts             | https://www.fontshare.com/     |
-| Font Awesome       | ⭐⭐⭐⭐    | Icon font library (free tier)      | https://fontawesome.com/       |
-| UnDraw             | ⭐⭐⭐     | Open-source illustrations          | https://undraw.co/illustrations |
+| Tool               | Rating  | Cost            | What It Does                      | Link                           |
+| ------------------ | ------- | --------------- | -------------------------------- | ------------------------------ |
+| Fontshare          | ⭐⭐⭐     | Fully Free      | Free open-source fonts             | https://www.fontshare.com/     |
+| Font Awesome       | ⭐⭐⭐⭐    | Free Tier       | Icon font library (free tier)      | https://fontawesome.com/       |
+| UnDraw             | ⭐⭐⭐     | Fully Free      | Open-source illustrations          | https://undraw.co/illustrations |
 
 ---
 
 ## 🔍 Testing & Analytics
 
-| Tool               | Rating  | What It Does                      | Link                          |
-| ------------------ | ------- | -------------------------------- | ----------------------------- |
-| PageSpeed Insights | ⭐⭐⭐⭐    | Website performance & speed tool  | https://pagespeed.web.dev/    |
-| Google Analytics   | ⭐⭐⭐     | Visitor tracking & insights       | https://analytics.google.com/ |
+| Tool               | Rating  | Cost            | What It Does                      | Link                          |
+| ------------------ | ------- | --------------- | -------------------------------- | ----------------------------- |
+| PageSpeed Insights | ⭐⭐⭐⭐    | Fully Free      | Website performance & speed tool  | https://pagespeed.web.dev/    |
+| Google Analytics   | ⭐⭐⭐     | Fully Free      | Visitor tracking & insights       | https://analytics.google.com/ |
 
 ---
 
