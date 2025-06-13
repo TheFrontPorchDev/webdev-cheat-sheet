@@ -19,11 +19,11 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ## 🧰 Code Editors & IDEs
 
-| Tool              | Rating  | Cost            | What It Does                         | Link                               |
-| ----------------- | ------- | --------------- | ---------------------------------- | ---------------------------------- |
-| VS Code           | ⭐⭐⭐⭐⭐   | Fully Free      | Free, extensible code editor         | https://code.visualstudio.com/     |
-| Gitpod            | ⭐⭐⭐     | Free Tier       | Online dev environments in browser   | https://gitpod.io/                 |
-| StackBlitz        | ⭐⭐⭐     | Free Tier       | Online instant dev playground        | https://stackblitz.com/            |
+| Tool              | Rating  | Cost            | What It Does                         | Link                   |
+| ----------------- | ------- | --------------- | ---------------------------------- | ---------------------- |
+| VS Code           | ⭐⭐⭐⭐⭐   | Fully Free      | Free, extensible code editor         | [code.visualstudio.com](https://code.visualstudio.com/)     |
+| Gitpod            | ⭐⭐⭐     | Free Tier       | Online dev environments in browser   | [gitpod.io](https://gitpod.io/)                 |
+| StackBlitz        | ⭐⭐⭐     | Free Tier       | Online instant dev playground        | [stackblitz.com](https://stackblitz.com/)            |
 
 ---
 
@@ -31,10 +31,10 @@ A curated list of the best **free** tools for web development — editors, desig
 
 | Tool               | Rating  | Cost            | What It Does                        | Link                                         |
 | ------------------ | ------- | --------------- | --------------------------------- | -------------------------------------------- |
-| Chrome DevTools    | ⭐⭐⭐⭐⭐   | Fully Free      | Built-in powerful browser tools    | https://developer.chrome.com/docs/devtools/ |
-| Firefox DevTools   | ⭐⭐⭐     | Fully Free      | Great for CSS grid & layout debug  | https://firefox-source-docs.mozilla.org/devtools-user/ |
-| Lighthouse        | ⭐⭐⭐     | Fully Free      | Performance, accessibility audits  | https://developers.google.com/web/tools/lighthouse |
-| Responsively App   | ⭐⭐⭐⭐    | Fully Free      | Live multi-device preview for responsive dev | https://responsively.app/                     |
+| Chrome DevTools    | ⭐⭐⭐⭐⭐   | Fully Free      | Built-in powerful browser tools    | [developer.chrome.com](https://developer.chrome.com/docs/devtools/) |
+| Firefox DevTools   | ⭐⭐⭐     | Fully Free      | Great for CSS grid & layout debug  | [firefox-source-docs.mozilla.org](https://firefox-source-docs.mozilla.org/devtools-user/) |
+| Lighthouse        | ⭐⭐⭐     | Fully Free      | Performance, accessibility audits  | [developers.google.com](https://developers.google.com/web/tools/lighthouse) |
+| Responsively App   | ⭐⭐⭐⭐    | Fully Free      | Live multi-device preview for responsive dev | [responsively.app](https://responsively.app/)                     |
 
 ---
 
@@ -42,9 +42,9 @@ A curated list of the best **free** tools for web development — editors, desig
 
 | Tool               | Rating  | Cost            | What It Does                          | Link                     |
 | ------------------ | ------- | --------------- | ----------------------------------- | ------------------------ |
-| Penpot             | ⭐⭐⭐⭐    | Fully Free      | Open-source UI design & prototyping  | https://penpot.app/      |
-| Coolors            | ⭐⭐⭐     | Free Tier       | Fast color palette generator         | https://coolors.co/      |
-| Heroicons          | ⭐⭐⭐     | Fully Free      | Free SVG icons from Tailwind team    | https://heroicons.com/   |
+| Penpot             | ⭐⭐⭐⭐    | Fully Free      | Open-source UI design & prototyping  | [penpot.app](https://penpot.app/)      |
+| Coolors            | ⭐⭐⭐     | Free Tier       | Fast color palette generator         | [coolors.co](https://coolors.co/)      |
+| Heroicons          | ⭐⭐⭐     | Fully Free      | Free SVG icons from Tailwind team    | [heroicons.com](https://heroicons.com/)   |
 
 ---
 
@@ -52,7 +52,7 @@ A curated list of the best **free** tools for web development — editors, desig
 
 | Tool               | Rating  | Cost            | What It Does                        | Link                    |
 | ------------------ | ------- | --------------- | --------------------------------- | ----------------------- |
-| Bundlephobia       | ⭐⭐⭐⭐    | Fully Free      | Check npm package size & impact     | https://bundlephobia.com/ |
+| Bundlephobia       | ⭐⭐⭐⭐    | Fully Free      | Check npm package size & impact     | [bundlephobia.com](https://bundlephobia.com/) |
 
 ---
 
@@ -60,9 +60,9 @@ A curated list of the best **free** tools for web development — editors, desig
 
 | Tool               | Rating  | Cost            | What It Does                       | Link                         |
 | ------------------ | ------- | --------------- | -------------------------------- | ---------------------------- |
-| GitHub Pages       | ⭐⭐⭐⭐    | Fully Free      | Host static sites for free        | https://pages.github.com/    |
-| Netlify            | ⭐⭐⭐⭐    | Free Tier       | Easy static & serverless hosting  | https://www.netlify.com/     |
-| Vercel             | ⭐⭐⭐     | Free Tier       | Deploy frontend apps quickly      | https://vercel.com/          |
+| GitHub Pages       | ⭐⭐⭐⭐    | Fully Free      | Host static sites for free        | [pages.github.com](https://pages.github.com/)    |
+| Netlify            | ⭐⭐⭐⭐    | Free Tier       | Easy static & serverless hosting  | [netlify.com](https://www.netlify.com/)     |
+| Vercel             | ⭐⭐⭐     | Free Tier       | Deploy frontend apps quickly      | [vercel.com](https://vercel.com/)          |
 
 ---
 
@@ -70,9 +70,9 @@ A curated list of the best **free** tools for web development — editors, desig
 
 | Tool               | Rating  | Cost            | What It Does                      | Link                           |
 | ------------------ | ------- | --------------- | -------------------------------- | ------------------------------ |
-| Fontshare          | ⭐⭐⭐     | Fully Free      | Free open-source fonts             | https://www.fontshare.com/     |
-| Font Awesome       | ⭐⭐⭐⭐    | Free Tier       | Icon font library (free tier)      | https://fontawesome.com/       |
-| UnDraw             | ⭐⭐⭐     | Fully Free      | Open-source illustrations          | https://undraw.co/illustrations |
+| Fontshare          | ⭐⭐⭐     | Fully Free      | Free open-source fonts             | [fontshare.com](https://www.fontshare.com/)     |
+| Font Awesome       | ⭐⭐⭐⭐    | Free Tier       | Icon font library (free tier)      | [fontawesome.com](https://fontawesome.com/)       |
+| UnDraw             | ⭐⭐⭐     | Fully Free      | Open-source illustrations          | [undraw.co](https://undraw.co/illustrations) |
 
 ---
 
@@ -80,8 +80,8 @@ A curated list of the best **free** tools for web development — editors, desig
 
 | Tool               | Rating  | Cost            | What It Does                      | Link                          |
 | ------------------ | ------- | --------------- | -------------------------------- | ----------------------------- |
-| PageSpeed Insights | ⭐⭐⭐⭐    | Fully Free      | Website performance & speed tool  | https://pagespeed.web.dev/    |
-| Google Analytics   | ⭐⭐⭐     | Fully Free      | Visitor tracking & insights       | https://analytics.google.com/ |
+| PageSpeed Insights | ⭐⭐⭐⭐    | Fully Free      | Website performance & speed tool  | [pagespeed.web.dev](https://pagespeed.web.dev/)    |
+| Google Analytics   | ⭐⭐⭐     | Fully Free      | Visitor tracking & insights       | [analytics.google.com](https://analytics.google.com/) |
 
 ---
 
