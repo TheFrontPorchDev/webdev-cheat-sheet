@@ -6,15 +6,18 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ## 🧭 Quick Navigation
 
-- [Code Editors & IDEs](#-code-editors--ides)
-- [Repository Hosting & Version Control](#-repository-hosting--version-control)
-- [Browser DevTools & Debugging](#-browser-devtools--debugging)
-- [Design & UI Tools](#-design--ui-tools)
-- [Package & Dependency Tools](#-package--dependency-tools)
-- [Hosting & Deployment](#-hosting--deployment)
-- [Fonts & Icons](#-fonts--icons)
-- [Testing & Analytics](#-testing--analytics)
-- [How to Use These Tools: Complete Workflow](#-how-to-use-these-tools-complete-workflow)
+- 🧰 [Code Editors & IDEs](#-code-editors--ides)
+- 🗂️ [Repository Hosting & Version Control](#-repository-hosting--version-control)
+- 🌐 [Browser DevTools & Debugging](#-browser-devtools--debugging)
+- 🎨 [Design & UI Tools](#-design--ui-tools)
+- 📦 [Package & Dependency Tools](#-package--dependency-tools)
+- ☁️ [Hosting & Deployment](#-hosting--deployment)
+- 🔤 [Fonts & Icons](#-fonts--icons)
+- 🖼️ [Images & Graphics](#-images--graphics)
+- 🔍 [Testing & Analytics](#-testing--analytics)
+- 🛠️ [Additional Development Tools](#-additional-development-tools)
+- 🎯 [How to Use These Tools: Complete Workflow](#-how-to-use-these-tools-complete-workflow)
+
 
 ---
 
