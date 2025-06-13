@@ -4,6 +4,19 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
+## 🧭 Quick Navigation
+
+- [🧰 Code Editors & IDEs](#-code-editors--ides)
+- [🌐 Browser DevTools & Debugging](#-browser-devtools--debugging)
+- [🎨 Design & UI Tools](#-design--ui-tools)
+- [📦 Package & Dependency Tools](#-package--dependency-tools)
+- [☁️ Hosting & Deployment](#-hosting--deployment)
+- [🧩 Fonts & Icons](#-fonts--icons)
+- [🔍 Testing & Analytics](#-testing--analytics)
+- [🎯 How to Use These Tools](#-how-to-use-these-tools-simple-1-5-step-plan)
+
+---
+
 ## 🧰 Code Editors & IDEs
 
 | Tool              | Rating  | Cost            | What It Does                         | Link                               |
