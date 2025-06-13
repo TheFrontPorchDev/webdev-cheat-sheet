@@ -6,12 +6,12 @@ A quick reference for responsive UI design, device sizes, and Tailwind breakpoin
 
 ## 🧭 Quick Nav
 
-- [🚦 Recommended Starting Screen Size](#-recommended-starting-screen-size)
-- [📱 Mobile Devices](#-mobile-devices)
-- [📲 Tablets](#-tablets)
-- [💻 Laptops & Desktops](#-laptops--desktops)
+- [🚦 Recommended Starting Screen Size](#-mobile-devices)
+- [📱 Mobile Devices](#-tablets)
+- [📲 Tablets](#-laptops--desktops)
+- [💻 Laptops & Desktops](#-tailwind-css-breakpoints)
 - [🎯 Tailwind CSS Breakpoints](#-tailwind-css-breakpoints)
-- [🧠 Tip](#-tip-design-for-mobile-first-and-then-use-breakpoints-to-expand-for-bigger-screens)
+- [🧠 Tip](#-mobile-first-design-tip)
 
 ---
 
@@ -73,4 +73,6 @@ A quick reference for responsive UI design, device sizes, and Tailwind breakpoin
 
 ---
 
-🧠 **Tip:** Design for `mobile-first` and then use breakpoints to expand for bigger screens!
+## 🧠 Mobile-First Design Tip
+
+Design for `mobile-first` and then use breakpoints to expand for bigger screens!
