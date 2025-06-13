@@ -1,27 +1,26 @@
-# 📦 Free Web Dev Tools & Resources
+# Free Web Dev Tools and Resources
 
 A curated list of the best **free** tools for web development — editors, design, hosting, version control, and more!
 
 ---
 
-## 🧭 Quick Navigation
+## Quick Navigation
 
-- 🧰 [Code Editors & IDEs](#-code-editors--ides)
-- 🗂️ [Repository Hosting & Version Control](#-repository-hosting--version-control)
-- 🌐 [Browser DevTools & Debugging](#-browser-devtools--debugging)
-- 🎨 [Design & UI Tools](#-design--ui-tools)
-- 📦 [Package & Dependency Tools](#-package--dependency-tools)
-- ☁️ [Hosting & Deployment](#hosting--deployment)
-- 🔤 [Fonts & Icons](#-fonts--icons)
-- 🖼️ [Images & Graphics](#-images--graphics)
-- 🔍 [Testing & Analytics](#-testing--analytics)
-- 🛠️ [Additional Development Tools](#additional-development-tools)
-- 🎯 [How to Use These Tools: Complete Workflow](#-how-to-use-these-tools-complete-workflow)
-
+- [Code Editors and IDEs](#code-editors-and-ides)
+- [Repository Hosting and Version Control](#repository-hosting-and-version-control)
+- [Browser DevTools and Debugging](#browser-devtools-and-debugging)
+- [Design and UI Tools](#design-and-ui-tools)
+- [Package and Dependency Tools](#package-and-dependency-tools)
+- [Hosting and Deployment](#hosting-and-deployment)
+- [Fonts and Icons](#fonts-and-icons)
+- [Images and Graphics](#images-and-graphics)
+- [Testing and Analytics](#testing-and-analytics)
+- [Additional Development Tools](#additional-development-tools)
+- [How to Use These Tools Complete Workflow](#how-to-use-these-tools-complete-workflow)
 
 ---
 
-## 🧰 Code Editors & IDEs
+## Code Editors and IDEs
 
 | Tool | Rating | Cost | What It Does | Link |
 |------|--------|------|--------------|------|
@@ -33,7 +32,7 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
-## 🗂️ Repository Hosting & Version Control
+## Repository Hosting and Version Control
 
 | Tool | Rating | Cost | What It Does | Link |
 |------|--------|------|--------------|------|
@@ -45,7 +44,7 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
-## 🌐 Browser DevTools & Debugging
+## Browser DevTools and Debugging
 
 | Tool | Rating | Cost | What It Does | Link |
 |------|--------|------|--------------|------|
@@ -57,7 +56,7 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
-## 🎨 Design & UI Tools
+## Design and UI Tools
 
 | Tool | Rating | Cost | What It Does | Link |
 |------|--------|------|--------------|------|
@@ -69,7 +68,7 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
-## 📦 Package & Dependency Tools
+## Package and Dependency Tools
 
 | Tool | Rating | Cost | What It Does | Link |
 |------|--------|------|--------------|------|
@@ -80,7 +79,7 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
-## ☁️ Hosting & Deployment
+## Hosting and Deployment
 
 | Tool | Rating | Cost | What It Does | Link |
 |------|--------|------|--------------|------|
@@ -93,7 +92,7 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
-## 🔤 Fonts & Icons
+## Fonts and Icons
 
 | Tool | Rating | Cost | What It Does | Link |
 |------|--------|------|--------------|------|
@@ -101,13 +100,13 @@ A curated list of the best **free** tools for web development — editors, desig
 | Font Awesome | ⭐⭐⭐⭐ | Free Tier | Comprehensive icon font library | [fontawesome.com](https://fontawesome.com/) |
 | Heroicons | ⭐⭐⭐⭐ | Fully Free | Beautiful SVG icons by Tailwind CSS team | [heroicons.com](https://heroicons.com/) |
 | Lucide | ⭐⭐⭐⭐ | Fully Free | Clean, customizable icon set | [lucide.dev](https://lucide.dev/) |
-| Fontshare | ⭐⭐⭐ | Fully Free | Quality fonts from Indian Type Foundry | [fontshare.com](https://www.fontshare.com/) |
+| Fontshare | ⭐⭐⭐ | Fully Free | Quality fonts from Indian Type Foundry | [fontshare.com](https://fontshare.com/) |
 | Tabler Icons | ⭐⭐⭐ | Fully Free | 4000+ free SVG icons | [tabler-icons.io](https://tabler-icons.io/) |
 | Feather Icons | ⭐⭐⭐ | Fully Free | Simple, beautiful open source icons | [feathericons.com](https://feathericons.com/) |
 
 ---
 
-## 🖼️ Images & Graphics
+## Images and Graphics
 
 | Tool | Rating | Cost | What It Does | Link |
 |------|--------|------|--------------|------|
@@ -118,7 +117,7 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
-## 🔍 Testing & Analytics
+## Testing and Analytics
 
 | Tool | Rating | Cost | What It Does | Link |
 |------|--------|------|--------------|------|
@@ -130,7 +129,7 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
-## 🛠️ Additional Development Tools
+## Additional Development Tools
 
 | Tool | Rating | Cost | What It Does | Link |
 |------|--------|------|--------------|------|
@@ -141,75 +140,75 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
-## 🎯 How to Use These Tools: Complete Workflow
+## How to Use These Tools Complete Workflow
 
-### 1. **Choose Your Core Stack**
+### 1. Choose Your Core Stack
 
-- **Code Editor**: Install **VS Code** (most popular, great extensions)
-- **Version Control**: **GitHub** (best for beginners and most widely used)
-- **Deployment**: Choose **Vercel** (React/Next.js) or **Netlify** (general static sites)
-- Set up **Git** locally and configure GitHub
+- Code Editor: Install VS Code (most popular, great extensions)
+- Version Control: GitHub (best for beginners and most widely used)
+- Deployment: Choose Vercel (React/Next.js) or Netlify (general static sites)
+- Set up Git locally and configure GitHub
 
-### 2. **Plan Your Project**
+### 2. Plan Your Project
 
-- Sketch ideas and create wireframes with **Figma** (industry standard) or **Penpot** (open source)
-- Generate color schemes using **Coolors**
-- Choose fonts from **Google Fonts** and icons from **Heroicons**
+- Sketch ideas and create wireframes with Figma (industry standard) or Penpot (open source)
+- Generate color schemes using Coolors
+- Choose fonts from Google Fonts and icons from Heroicons
 
-### 3. **Development & Testing**
+### 3. Development and Testing
 
-- Code in **VS Code** (see my recommended extension list for essential add-ons)
-- Use **Chrome DevTools** for debugging and CSS tweaking
-- Test responsive design with **Responsively App**
-- Check package sizes with **Bundlephobia** before installing dependencies
+- Code in VS Code (see my recommended extension list for essential add-ons)
+- Use Chrome DevTools for debugging and CSS tweaking
+- Test responsive design with Responsively App
+- Check package sizes with Bundlephobia before installing dependencies
 
-### 4. **Quality Assurance**
+### 4. Quality Assurance
 
-- Run **Lighthouse** audits for performance, accessibility, and SEO
-- Test accessibility with **Wave**
-- Validate APIs with **Postman** if building backend features
-- Check browser compatibility with **Can I Use**
+- Run Lighthouse audits for performance, accessibility, and SEO
+- Test accessibility with Wave
+- Validate APIs with Postman if building backend features
+- Check browser compatibility with Can I Use
 
-### 5. **Version Control & Deployment**
+### 5. Version Control and Deployment
 
 - Commit code regularly with meaningful messages
 - Push to your repository (GitHub/GitLab)
-- Deploy automatically to **Vercel**, **Netlify**, or **GitHub Pages**
+- Deploy automatically to Vercel, Netlify, or GitHub Pages
 - Set up continuous deployment for automatic updates
 
-### 6. **Monitor & Optimize**
+### 6. Monitor and Optimize
 
-- Add **Google Analytics** for user insights
-- Monitor site performance with **PageSpeed Insights**
-- Track SEO performance with **Google Search Console**
+- Add Google Analytics for user insights
+- Monitor site performance with PageSpeed Insights
+- Track SEO performance with Google Search Console
 - Optimize based on real user data
 
-### 🎯 **Beginner's Quick Start**
+### Beginner's Quick Start
 
-1. **VS Code** + **GitHub** + **Netlify** = Your basic stack
-2. Add **Chrome DevTools** for debugging
-3. Use **Unsplash** for images and **Heroicons** for icons
-4. Test with **Lighthouse** before going live
+1. VS Code + GitHub + Netlify = Your basic stack
+2. Add Chrome DevTools for debugging
+3. Use Unsplash for images and Heroicons for icons
+4. Test with Lighthouse before going live
 
-### 🚀 **Advanced Workflow**
+### Advanced Workflow
 
-- Add **Figma** for professional design
-- Use **GitLab** CI/CD for automated testing
-- Monitor with **GTmetrix** for detailed performance
-- Test APIs thoroughly with **Postman**
-
----
-
-## 🚀 Pro Tips
-
-- **Start Simple**: Begin with basic tools like VS Code + GitHub + Netlify
-- **Learn Git Early**: Version control is essential for any serious development
-- **Automate Deployment**: Use GitHub Actions or similar CI/CD for automatic deployments
-- **Performance First**: Always test with Lighthouse before going live
-- **Mobile-First Design**: Use Responsively App to ensure great mobile experience
-- **Accessibility Matters**: Regular testing with Wave helps create inclusive websites
+- Add Figma for professional design
+- Use GitLab CI/CD for automated testing
+- Monitor with GTmetrix for detailed performance
+- Test APIs thoroughly with Postman
 
 ---
 
-**Happy coding!** 🚀💻  
+## Pro Tips
+
+- Start Simple: Begin with basic tools like VS Code + GitHub + Netlify
+- Learn Git Early: Version control is essential for any serious development
+- Automate Deployment: Use GitHub Actions or similar CI/CD for automatic deployments
+- Performance First: Always test with Lighthouse before going live
+- Mobile-First Design: Use Responsively App to ensure great mobile experience
+- Accessibility Matters: Regular testing with Wave helps create inclusive websites
+
+---
+
+**Happy coding!**  
 This guide covers everything you need to start professional web development for free. Bookmark it and refer back as you grow your skills!
