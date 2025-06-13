@@ -85,7 +85,7 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ---
 
-## 🎯 How to Use These Tools: Simple 1-6 Step Plan
+## 🎯 How to Use These Tools: Simple 1–6 Step Plan
 
 1. **Code & Edit:** Use VS Code or Gitpod to write and test your code fast.
 
@@ -97,8 +97,7 @@ A curated list of the best **free** tools for web development — editors, desig
 
 5. **Deploy & Monitor:** Host your site free on GitHub Pages, Netlify, or Vercel and check speed with PageSpeed Insights.
 
-6. **Manage Version Control & Hosting:** Use Git (via VS Code’s Git GUI) to track changes and push your project to GitHub, enabling easy hosting with GitHub Pages.  
-   _Why use it?_ Keeps your project safe, helps collaborate, and puts your site live on the web.
+6. **Manage Version Control & Hosting:** Use Git (via VS Code’s Git GUI) to track changes and push your project to GitHub — keeps your project safe, helps collaborate, and puts your site live on the web.
 
 ---
 
