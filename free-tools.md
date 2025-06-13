@@ -11,11 +11,11 @@ A curated list of the best **free** tools for web development — editors, desig
 - 🌐 [Browser DevTools & Debugging](#-browser-devtools--debugging)
 - 🎨 [Design & UI Tools](#-design--ui-tools)
 - 📦 [Package & Dependency Tools](#-package--dependency-tools)
-- ☁️ [Hosting & Deployment](#-hosting--deployment)
+- ☁️ [Hosting & Deployment](#hosting--deployment)
 - 🔤 [Fonts & Icons](#-fonts--icons)
 - 🖼️ [Images & Graphics](#-images--graphics)
 - 🔍 [Testing & Analytics](#-testing--analytics)
-- 🛠️ [Additional Development Tools](#-additional-development-tools)
+- 🛠️ [Additional Development Tools](#additional-development-tools)
 - 🎯 [How to Use These Tools: Complete Workflow](#-how-to-use-these-tools-complete-workflow)
 
 
@@ -144,47 +144,55 @@ A curated list of the best **free** tools for web development — editors, desig
 ## 🎯 How to Use These Tools: Complete Workflow
 
 ### 1. **Choose Your Core Stack**
+
 - **Code Editor**: Install **VS Code** (most popular, great extensions)
 - **Version Control**: **GitHub** (best for beginners and most widely used)
 - **Deployment**: Choose **Vercel** (React/Next.js) or **Netlify** (general static sites)
 - Set up **Git** locally and configure GitHub
 
 ### 2. **Plan Your Project**
+
 - Sketch ideas and create wireframes with **Figma** (industry standard) or **Penpot** (open source)
 - Generate color schemes using **Coolors**
 - Choose fonts from **Google Fonts** and icons from **Heroicons**
 
 ### 3. **Development & Testing**
+
 - Code in **VS Code** (see my recommended extension list for essential add-ons)
 - Use **Chrome DevTools** for debugging and CSS tweaking
 - Test responsive design with **Responsively App**
 - Check package sizes with **Bundlephobia** before installing dependencies
 
 ### 4. **Quality Assurance**
+
 - Run **Lighthouse** audits for performance, accessibility, and SEO
 - Test accessibility with **Wave**
 - Validate APIs with **Postman** if building backend features
 - Check browser compatibility with **Can I Use**
 
 ### 5. **Version Control & Deployment**
+
 - Commit code regularly with meaningful messages
 - Push to your repository (GitHub/GitLab)
 - Deploy automatically to **Vercel**, **Netlify**, or **GitHub Pages**
 - Set up continuous deployment for automatic updates
 
 ### 6. **Monitor & Optimize**
+
 - Add **Google Analytics** for user insights
 - Monitor site performance with **PageSpeed Insights**
 - Track SEO performance with **Google Search Console**
 - Optimize based on real user data
 
 ### 🎯 **Beginner's Quick Start**
+
 1. **VS Code** + **GitHub** + **Netlify** = Your basic stack
 2. Add **Chrome DevTools** for debugging
 3. Use **Unsplash** for images and **Heroicons** for icons
 4. Test with **Lighthouse** before going live
 
 ### 🚀 **Advanced Workflow**
+
 - Add **Figma** for professional design
 - Use **GitLab** CI/CD for automated testing
 - Monitor with **GTmetrix** for detailed performance
