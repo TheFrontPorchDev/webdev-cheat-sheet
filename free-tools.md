@@ -19,11 +19,11 @@ A curated list of the best **free** tools for web development — editors, desig
 
 ## 🧰 Code Editors & IDEs
 
-| Tool       | Rating     | Cost       | What It Does                       | Link                                                    |
-| ---------- | ---------- | ---------- | ---------------------------------- | ------------------------------------------------------- |
-| VS Code    | ⭐⭐⭐⭐⭐ | Fully Free | Free, extensible code editor       | [code.visualstudio.com](https://code.visualstudio.com/) |
-| Gitpod     | ⭐⭐⭐     | Free Tier  | Online dev environments in browser | [gitpod.io](https://gitpod.io/)                         |
-| StackBlitz | ⭐⭐⭐     | Free Tier  | Online instant dev playground      | [stackblitz.com](https://stackblitz.com/)               |
+| Tool    | Rating     | Cost       | What It Does                       | Link                                                    |
+| ------- | ---------- | ---------- | ---------------------------------- | ------------------------------------------------------- |
+| VS Code | ⭐⭐⭐⭐⭐ | Fully Free | Free, extensible code editor       | [code.visualstudio.com](https://code.visualstudio.com/) |
+| Gitpod  | ⭐⭐⭐     | Free Tier  | Online dev environments in browser | [gitpod.io](https://gitpod.io/)                         |
+| Bolt    | ⭐⭐⭐     | Free Tier  | Online instant dev playground      | [Bolt](https://bolt.new/)                               |
 
 ---
 
